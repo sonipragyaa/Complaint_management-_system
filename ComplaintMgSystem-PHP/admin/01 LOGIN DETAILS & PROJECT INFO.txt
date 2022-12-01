@@ -1,0 +1,22 @@
+**Log on to codeastro.com for more projects!***
+
+**Database Name: cpmsphp**
+
+**Developed by Pragya soni**
+
+
+**Admin Login Details**
+
+Username: admin
+Password: admin
+
+**Customer Login Details**
+
+Email   : george@gmail.com
+Password: password
+
+Email:pragya@gmail.com
+password:pass
+
+
+
